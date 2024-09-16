@@ -5,3 +5,7 @@ Basic ML Programs practiced
 3) To predict the energy efficiency of buildings using synthetic data.
 4) To cluster vehicles based on their specifications using synthetic data.
 5) A Decision Tree to Predict Customer Churn Out based on synthetic data.
+6) Using a synthetic dataset to predict whether a customer will make a purchase based on two features:
+    a) Website visit duration
+    b) Number of pages visited.
+using a Neural Network.
